@@ -71,7 +71,7 @@ body {
 }
 
 .right {
-    max-width: 650px;
+    max-width: 600px;
     /* padding: 0%; */
 }
 
@@ -139,17 +139,18 @@ body {
 }
 
 .abt_kanan img {
-    width: 500px;
+    width: 450px;
     height: auto;
     border-radius: 10px;
     margin-top: 20px;
+    justify-content: left;
 }
 
 .abt {
     display: flex;
     justify-content: space-between;
     align-items: top;
-    gap: 0px;
+    gap: 10px;
     flex-wrap: wrap;
     padding: 0px 30px;
 
