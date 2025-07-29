@@ -71,12 +71,12 @@ body {
 }
 
 .right {
-    max-width: 500px;
+    max-width: 600px;
     /* padding: 0%; */
 }
 
 .right h1 {
-    font-size: 60px;
+    font-size: 64px;
     color: #8785A2;
     margin-bottom: 10px;
     font-weight: bold;
